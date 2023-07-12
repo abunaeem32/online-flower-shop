@@ -1,0 +1,34 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #ef7c9540;
+}
+div{
+    padding: 20px 119px;
+    align-items: center;
+
+}
+
+.header-title{
+    font-size: 50px ;
+    font-weight: 700;
+}
+.img{
+    width: 635px;
+    height: 600px;
+}
+.btn{
+    padding: 10px;
+    width: 102px;
+    height: 46px;
+    background-color: rgba(182, 8, 66, 0.963);
+    color: white;
+    border-radius: 11px;
+   
+}
