@@ -77,7 +77,8 @@ body{
 
 section .delivery-section{
     max-width: 1440px;
-    max-height: 320px;
+    /* max-height: 320px; */
+    max-height: 92%;
    
 }
 .delivery{
@@ -96,3 +97,41 @@ section .delivery-section{
 .click-img-2{
     padding-left: 38px;
 }
+.hot-deal{
+    max-height: 50%;
+}
+.hot-deal-1{
+    padding-top: 30px;
+    padding-left: 300px;
+}
+
+.hot-deal-pic{
+    padding-left: 200px;
+    width: 170px;
+    height: 200px;
+    
+    }
+    .off{
+        color: rgba(182, 8, 66, 0.963);
+    }
+.deal-title{
+    font-size: 55px;
+    }
+    .hot-deal-1 {
+        display:flex;
+        background-color: #eea7b640;
+        margin-top: 30px;
+    }
+    
+    
+    .deal-para{
+        margin-left: 30px;
+        font-size: smaller;
+        align-items: center;
+    }
+    #sing-up-button{
+       padding: 0px;
+       margin-left: 320px;
+        align-items: center;
+        
+    }
