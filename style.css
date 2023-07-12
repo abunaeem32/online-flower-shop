@@ -9,7 +9,7 @@ body{
     align-items: center;
     background-color: #ef7c9540;
 }
-div{
+.header div{
     padding: 20px 119px;
     align-items: center;
 
@@ -31,4 +31,25 @@ div{
     color: white;
     border-radius: 11px;
    
+}
+section .delivery-section{
+    max-width: 1440px;
+    max-height: 320px;
+   
+}
+.delivery{
+   
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(237, 230, 216, 0.851);
+    margin-top: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 10px;
+}
+.click-img-1{
+   padding-left: 38px;
+}
+.click-img-2{
+    padding-left: 38px;
 }
