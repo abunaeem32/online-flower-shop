@@ -32,6 +32,49 @@ body{
     border-radius: 11px;
    
 }
+.featured-title{
+    padding-left: 540px;
+    }
+    .featured-para{
+        padding-left: 340px;
+    }
+    .featured-picture{
+        display: flex;
+        gap: 82px;
+        padding-left: 30px;
+        padding-right: 30px;
+        justify-content: space-between;
+        
+    }
+    .featured-name{
+        display: flex;
+        gap: 220px;
+        padding-left: 134px ;
+    }
+    
+    .pink{
+       
+        border: 2px solid red;
+        border-top-left-radius: 140px;
+        border-top-right-radius: 140px;
+    background-color: rgb(238, 184, 184);
+    
+    }
+    .red{
+        
+        border: 2px solid red;
+        border-top-left-radius: 140px;
+        border-top-right-radius: 140px;
+    background-color: rgb(213, 191, 234);
+    }
+    .maroon{
+        border: 2px solid red;
+        border-top-left-radius: 140px;
+        border-top-right-radius: 140px;
+    background-color: rgb(170, 233, 180);
+    
+    }
+
 section .delivery-section{
     max-width: 1440px;
     max-height: 320px;
